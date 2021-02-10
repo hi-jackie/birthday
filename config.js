@@ -12,8 +12,10 @@ var config = {
         //"还记得在王婆串串吃的呢",
         //"今年要吃好的喽哦",
         //"要把我家可爱猪猪喂饱饱",
-        //"然后抱走",
-        "快乐~~",
+        "2021",
+        "新年快乐~~",
+        "要健康！",
+        "后面没东西啦",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -33,7 +35,7 @@ var config = {
         turn_on: "开始",
         play: "音乐",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "给你看气球",
         cake_fadein: "给你蛋糕",
         light_candle: "还有蜡烛",
         wish_message: "生日快乐",

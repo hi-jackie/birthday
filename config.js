@@ -35,7 +35,7 @@ var config = {
         turn_on: "开始",
         play: "音乐 起！",
         bannar_coming: "上图",
-        balloons_flying: "给你看气球",
+        balloons_flying: "给你气球",
         balloons_flying: "再来一遍",
         balloons_flying: "还有一遍",
         balloons_flying: "最后一遍",
